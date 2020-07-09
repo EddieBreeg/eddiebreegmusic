@@ -1,0 +1,40 @@
+:root{
+    --transition: 0.1s ease-in-out;
+}
+
+.music-release{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+}
+h2{
+    font-family: Potra;
+    font-size: 25pt;
+}
+.main-content{
+    margin-bottom: 5rem;
+}
+.main-content a{
+    border-radius: 20px;
+    padding: 1rem;
+    width: 45%;
+    color:inherit;
+    background-color: var(--dark-grey);
+    opacity: 75%;
+    text-decoration: none;
+    transition: var(--transition);
+    margin-bottom: 2rem;
+}
+.main-content a:hover{
+    color: var(--light-blue);
+    opacity: 0.9;
+    text-shadow: 0px 0px 5px var(--light-blue);
+    transition: var(--transition);
+    box-shadow: var(--shadow-main);
+}
+.music-thumbnail{
+    width:100px;
+    margin-right: 2rem;
+}

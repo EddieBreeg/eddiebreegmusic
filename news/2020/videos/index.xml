@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on Eddie Breeg</title>
+    <link>/news/2020/videos/</link>
+    <description>Recent content in Videos on Eddie Breeg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jul 2020 11:52:27 +0200</lastBuildDate>
+    
+	<atom:link href="/news/2020/videos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample Renaming</title>
+      <link>/news/2020/videos/sample-renaming/</link>
+      <pubDate>Wed, 08 Jul 2020 11:52:27 +0200</pubDate>
+      
+      <guid>/news/2020/videos/sample-renaming/</guid>
+      <description>Fed up of renaming samples?</description>
+    </item>
+    
+  </channel>
+</rss>

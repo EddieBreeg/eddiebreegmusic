@@ -1,0 +1,26 @@
+#frowning{
+    display:inline;
+    width: 3rem;
+}
+.main-content{
+    align-items: center;
+    margin-top: 15%;
+}
+button
+{
+    transition: 0.2s;
+    padding: 10px;
+    width: auto;
+    text-transform: uppercase;
+    background: none;
+    border: 2px solid var(--light-grey);
+    color: var(--light-grey);
+    font-weight: bold;
+    font-size: 15px;
+}
+button:hover{
+    border-radius: 20px;
+    border-color: var(--light-green);
+    box-shadow: 0 0 5px var(--light-green);
+    color: var(--light-green);
+}

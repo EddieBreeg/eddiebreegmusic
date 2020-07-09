@@ -1,0 +1,125 @@
+:root{
+    --light-grey: #EAEAEA;
+    --main-background: black;
+    --dark-grey: #282828;
+    --red: hsl(0, 86%, 60%);
+    --light-red: #fac8c8;
+    --light-green: #A9FF86;
+    --shadow-main: 0px 5px 5px black;
+    --light-blue: #65F2FC;
+    --black: #0C0C0C;
+}
+@font-face {
+    src: url("../fonts/ethnocentric rg.ttf");
+    font-family: Ethnocentric;
+}
+body{
+    cursor: inherit;
+    margin: none;
+    background: var(--main-background);
+    color: var(--light-grey);
+    font-size: 25px;
+    font-family: Consolas;
+}
+h1{
+    text-transform: uppercase;
+    font-weight: lighter;
+    text-decoration: underline;
+    color: var(--light-green);
+}
+a:hover, button:hover{
+    cursor: pointer;
+}
+#background{
+    opacity: 25%;
+    width: 100%;
+    position: fixed;
+    filter: blur(5px);
+    top: 0;
+    z-index: -1;
+    /* transform: translate(0px, -30%); */
+}
+.main-menu{
+    background-color: var(--dark-grey);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 75%;
+    width: 100%;
+    height: 120px;
+    font-size: 20pt;
+    font-family: Ethnocentric;
+    box-shadow: var(--shadow-main);
+    z-index: 5;
+}
+.menu-item{
+    transition: 0.3s cubic-bezier(0.63, 1.34, 0.77, 1.29);
+    transition-property: color, opacity, font-size,text-shadow, border-right;
+    color: var(--light-grey);
+    text-transform: uppercase;
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+.menu-item:hover{
+    color: var(--light-red);
+    opacity: 100%;
+    font-size: 25pt;
+    text-shadow: 0px 0px 10px red;
+    border-right: 3px solid var(--light-red);
+
+}
+#logo:hover{
+    border: none;
+}
+
+footer{
+    opacity: 75%;
+    transition: 0.5s;
+    z-index: 5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+    left: 0;
+    height: 4rem;
+    width: 100%;
+    background-color: var(--dark-grey);
+    position: fixed;
+    box-shadow: 0px -2px 5px black;
+}
+.bottom-bar{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bottom-bar img{
+    height: 3.5rem;
+}
+footer:hover{
+    opacity: 95%;
+}
+.main-content{
+    width: 100%;
+    margin-top: 6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#soundcloud{
+    width: 3rem;
+    height: 3rem;
+}
+#spotify{
+    height: 2rem;
+}
+#youtube{
+    height: 2rem;
+}
+#instagram{
+    height: 2rem;
+}

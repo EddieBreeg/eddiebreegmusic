@@ -12,9 +12,14 @@ body{
     margin-top: 5rem;
     box-shadow: var(--shadow-main);
 }
+
 article{
-    width: 75%;
+    max-width: 75%;
     word-wrap: break-word;
+}
+article p{
+    text-align: justify;
+    max-width: 65ch;
 }
 .gallery-image{
     display: flex;
@@ -30,7 +35,9 @@ article{
     display: flex;
     align-items: center;
     flex-direction: column;
+    text-align: center;
 }
+
 .news a{
     text-decoration: none;
     color: var(--light-green);
@@ -52,6 +59,7 @@ article{
 }
 .bio{
     margin-top: 4rem;
+    /* text-align: center; */
 }
 .related{
     display: flex;

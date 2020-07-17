@@ -97,8 +97,8 @@ footer{
     justify-content: space-between;
     align-items: center;
 }
-.bottom-bar img{
-    height: 3.5rem;
+.footer-item:hover{
+    filter: drop-shadow(0 0 0.3rem var(--light-grey));
 }
 footer:hover{
     opacity: 95%;

@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/news/2020/</loc>
+    <lastmod>2020-07-22T21:16:01+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-07-09T18:09:37+02:00</lastmod>
+    <lastmod>2020-07-22T21:16:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
+    <lastmod>2020-07-22T21:16:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/2020/posts/</loc>
+    <lastmod>2020-07-22T21:16:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/2020/posts/space-burrow/</loc>
+    <lastmod>2020-07-22T21:16:01+02:00</lastmod>
   </url>
   
   <url>
@@ -28,16 +48,6 @@
   </url>
   
   <url>
-    <loc>/news/2020/</loc>
-    <lastmod>2020-07-08T11:52:27+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/news/</loc>
-    <lastmod>2020-07-08T11:52:27+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/news/2020/videos/sample-renaming/</loc>
     <lastmod>2020-07-08T11:52:27+02:00</lastmod>
   </url>
@@ -45,11 +55,6 @@
   <url>
     <loc>/news/2020/videos/</loc>
     <lastmod>2020-07-08T11:52:27+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/news/2020/posts/</loc>
-    <lastmod>2020-07-07T17:42:44+02:00</lastmod>
   </url>
   
   <url>

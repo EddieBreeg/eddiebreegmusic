@@ -11,9 +11,7 @@
 }
 .news-container{
     font-size: 20px;
-    transition: padding 0.5s, border-radius 0.3s,
-        color 0.5s;
-    width: 80%;
+    width: 60%;
     background-color: var(--dark-grey);
     border-radius: 20px;
     opacity: 80%;

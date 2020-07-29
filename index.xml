@@ -6,10 +6,19 @@
     <description>Recent content on Eddie Breeg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2020 21:16:01 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 11:32:16 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hang &#39;Em All</title>
+      <link>/news/2020/videos/hang_em_all/</link>
+      <pubDate>Wed, 29 Jul 2020 11:32:16 +0200</pubDate>
+      
+      <guid>/news/2020/videos/hang_em_all/</guid>
+      <description>Hang &amp;lsquo;Em All It&amp;rsquo;s not exactly new since I made this remix a few months ago.</description>
+    </item>
     
     <item>
       <title>What&#39;s next?</title>
@@ -170,7 +179,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>About me Veniam mandaremus singulis.</description>
+      <description>About me I don&amp;rsquo;t know if there is much to say about me, but I will do my best either way.</description>
     </item>
     
   </channel>

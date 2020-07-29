@@ -19,11 +19,12 @@ body{
     background: var(--main-background);
     color: var(--light-grey);
     font-size: 25px;
-    font-family: Consolas;
+    font-weight: lighter;
+    font-family: Cascadia Code;
 }
 h1{
     text-transform: uppercase;
-    font-weight: lighter;
+    font-weight: normal;
     text-decoration: underline;
     color: var(--light-green);
 }

@@ -59,7 +59,7 @@ article p{
 }
 .bio{
     margin-top: 4rem;
-    /* text-align: center; */
+    text-align: center;
 }
 .related{
     display: flex;

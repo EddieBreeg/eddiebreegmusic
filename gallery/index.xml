@@ -6,10 +6,19 @@
     <description>Recent content in Galleries on Eddie Breeg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2020 18:09:37 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 14:23:49 +0200</lastBuildDate>
     
 	<atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Enhancing</title>
+      <link>/gallery/the-enhancing/</link>
+      <pubDate>Wed, 29 Jul 2020 14:23:49 +0200</pubDate>
+      
+      <guid>/gallery/the-enhancing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Great Hall</title>

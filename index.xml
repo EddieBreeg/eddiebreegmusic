@@ -6,10 +6,19 @@
     <description>Recent content on Eddie Breeg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2020 16:33:22 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2020 20:28:23 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pianobook Instruments</title>
+      <link>/news/2020/posts/pianobook/</link>
+      <pubDate>Fri, 25 Sep 2020 20:28:23 +0200</pubDate>
+      
+      <guid>/news/2020/posts/pianobook/</guid>
+      <description>Pianobook I have the great pleasure to announce that my sample instruments are now available on Pianobook!</description>
+    </item>
     
     <item>
       <title>Windy Pad</title>

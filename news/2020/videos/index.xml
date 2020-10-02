@@ -6,10 +6,19 @@
     <description>Recent content in Videos on Eddie Breeg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2020 11:32:16 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 14:41:53 +0200</lastBuildDate>
     
 	<atom:link href="/news/2020/videos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hotel California</title>
+      <link>/news/2020/videos/hotel_california/</link>
+      <pubDate>Fri, 02 Oct 2020 14:41:53 +0200</pubDate>
+      
+      <guid>/news/2020/videos/hotel_california/</guid>
+      <description>Hotel California Guitar Solo Well I felt like it so I did a remix of the Hotel California solo.</description>
+    </item>
     
     <item>
       <title>Hang &#39;Em All</title>

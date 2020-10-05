@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Eddie Breeg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2020 20:28:23 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2020 11:41:43 +0200</lastBuildDate>
     
 	<atom:link href="/news/2020/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Out of the Void</title>
+      <link>/news/2020/posts/out-of-the-void/</link>
+      <pubDate>Sun, 04 Oct 2020 11:41:43 +0200</pubDate>
+      
+      <guid>/news/2020/posts/out-of-the-void/</guid>
+      <description>Out of the Void Finally!</description>
+    </item>
     
     <item>
       <title>Pianobook Instruments</title>

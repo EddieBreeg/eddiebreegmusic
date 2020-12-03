@@ -6,10 +6,19 @@
     <description>Recent content in Videos on Eddie Breeg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2020 14:41:53 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 03 Dec 2020 17:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/news/2020/videos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chapter II</title>
+      <link>/news/2020/videos/chapter_2/</link>
+      <pubDate>Thu, 03 Dec 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/news/2020/videos/chapter_2/</guid>
+      <description>Chapter II Hey folks!</description>
+    </item>
     
     <item>
       <title>Hotel California</title>

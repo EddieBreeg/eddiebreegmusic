@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Eddie Breeg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2020 11:41:43 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 17:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/news/2020/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Retrospection</title>
+      <link>/news/2020/posts/retrospection/</link>
+      <pubDate>Mon, 07 Dec 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/news/2020/posts/retrospection/</guid>
+      <description>Retrospection My new single is out folks!</description>
+    </item>
     
     <item>
       <title>Out of the Void</title>

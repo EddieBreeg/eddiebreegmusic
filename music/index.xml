@@ -6,10 +6,19 @@
     <description>Recent content in Music Releases on Eddie Breeg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jan 2021 08:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jan 2021 11:09:08 +0100</lastBuildDate>
     
 	<atom:link href="/music/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Three Worlds Apart</title>
+      <link>/music/three-worlds-apart/</link>
+      <pubDate>Sun, 17 Jan 2021 11:09:08 +0100</pubDate>
+      
+      <guid>/music/three-worlds-apart/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What Ccomes Next</title>

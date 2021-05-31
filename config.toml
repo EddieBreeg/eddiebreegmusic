@@ -1,0 +1,8 @@
+languageCode = "en-us"
+title = "Eddie Breeg"
+staticDir = ["static", "media"]
+canonifyURLs = true
+summaryLength = 2
+enableEmoji = true
+defaultContentLanguageInSubdir = true
+disableLanguages=["English"]

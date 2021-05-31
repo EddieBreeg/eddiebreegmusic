@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music Releases on Eddie Breeg</title>
+    <link>/music/</link>
+    <description>Recent content in Music Releases on Eddie Breeg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jan 2021 11:09:08 +0100</lastBuildDate><atom:link href="/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Worlds Apart</title>
+      <link>/music/three-worlds-apart/</link>
+      <pubDate>Sun, 17 Jan 2021 11:09:08 +0100</pubDate>
+      
+      <guid>/music/three-worlds-apart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Ccomes Next</title>
+      <link>/music/what_comes_next/</link>
+      <pubDate>Mon, 11 Jan 2021 08:30:00 +0100</pubDate>
+      
+      <guid>/music/what_comes_next/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrospection</title>
+      <link>/music/retrospection/</link>
+      <pubDate>Mon, 07 Dec 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/music/retrospection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Out of the Void</title>
+      <link>/music/out-of-the-void/</link>
+      <pubDate>Sun, 04 Oct 2020 11:33:44 +0200</pubDate>
+      
+      <guid>/music/out-of-the-void/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Enhancing</title>
+      <link>/music/the-enhancing/</link>
+      <pubDate>Wed, 29 Jul 2020 14:18:37 +0200</pubDate>
+      
+      <guid>/music/the-enhancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XPS 13.0</title>
+      <link>/music/xps-13-0/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/music/xps-13-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Awakening</title>
+      <link>/music/the-awakening/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/music/the-awakening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some Human Story</title>
+      <link>/music/some-human-story/</link>
+      <pubDate>Tue, 20 Aug 2019 21:51:06 +0200</pubDate>
+      
+      <guid>/music/some-human-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Evil Strings</title>
+      <link>/music/the-evil-strings/</link>
+      <pubDate>Fri, 29 Mar 2019 21:41:40 +0200</pubDate>
+      
+      <guid>/music/the-evil-strings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XPS 12.0</title>
+      <link>/music/xps-12-0/</link>
+      <pubDate>Wed, 20 Feb 2019 21:58:41 +0200</pubDate>
+      
+      <guid>/music/xps-12-0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

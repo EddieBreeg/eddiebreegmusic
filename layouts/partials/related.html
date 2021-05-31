@@ -1,0 +1,6 @@
+<div class="related">
+    <h3>See Also:</h3>
+    {{ range first 5 (.Site.RegularPages.Related .) }}
+    <a href="{{ .RelPermaLink }}">{{.Title}}</a>
+    {{ end }}
+</div>

@@ -1,0 +1,22 @@
+
+@font-face {
+    src: url("../fonts/Potra.ttf");
+    font-family: Potra;
+}
+#twitter-timeline{
+    position: absolute;
+    top: 8rem;
+    right: 1rem;
+}
+.main-content{
+
+    padding-bottom: 6rem;
+}
+.news-container h2{
+    font-size: 25px;
+    font-family: Potra;
+}
+
+.youtube-video{
+    margin-bottom: 2rem;
+}

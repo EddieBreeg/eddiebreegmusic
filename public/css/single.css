@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+}
+.main-content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+}
+.toneden-page{
+    margin-top: 5rem;
+    box-shadow: var(--shadow-main);
+}
+
+article{
+    max-width: 75%;
+    word-wrap: break-word;
+}
+article p{
+    text-align: justify;
+    max-width: 65ch;
+}
+.gallery-image{
+    display: flex;
+    justify-content: center;
+}
+.gallery-image img{
+    height:75vh;
+    margin-top: 5rem;
+    border: 2px solid var(--dark-grey);
+}
+.news{
+    margin-top: 5rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.news a{
+    text-decoration: none;
+    color: var(--light-green);
+}
+.news a:hover{
+    text-shadow: 0 0 5px var(--light-green);
+}
+.news .youtube-video{
+    width: 800px;
+    max-width: 50vw;
+    height: 400px;
+    margin-top: 1rem;
+}
+.date{
+    display: block;
+    text-align: right;
+    margin-top: 2rem;
+    font-size: 1rem;
+}
+.bio{
+    margin-top: 4rem;
+    text-align: center;
+}
+.related{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+footer{
+    position: relative;
+    bottom: 0;
+}

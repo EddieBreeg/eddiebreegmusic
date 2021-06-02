@@ -1,0 +1,88 @@
+:root{
+    $white: #eee;
+    padding: none;
+}
+@font-face {
+    src: url("../fonts/Potra.ttf");
+    font-family: Potra;
+}
+.main-content{
+    margin-bottom: 5rem;
+}
+.news-container{
+    font-size: 20px;
+    width: 60%;
+    background-color: var(--dark-grey);
+    border-radius: 20px;
+    opacity: 80%;
+    text-align: center;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: var(--shadow-main);
+}
+.news-container a{
+    width: 100%;
+    color: inherit;
+    text-decoration: none;
+}
+.news-container a:hover{
+    color: var(--light-red);
+    text-shadow: 0 0 5px var(--red);
+}
+.news-container:hover{
+    opacity: 90%;
+    color: var(--light-blue);
+}
+h2::after{
+    /* font-size: 0.8rem; */
+    content: '|';
+    font-family: Consolas;
+    margin: none;
+    left:0;
+    opacity: 0;
+}
+.news-container:hover h2::after{
+    animation: 1s linear infinite flickering;
+    opacity: 1;
+}
+@keyframes flickering {
+    from{
+        opacity: 0;
+    }
+    49%{
+        opacity: 0;
+    }
+    50%{
+        opacity: 1;
+    }
+    99%{
+        opacity: 1;
+    }
+    to{
+        opacity: 0;
+    }
+}
+.metadata{
+    display: inline;
+    position: relative;
+    left:40%;
+}
+.pin{
+    fill: var(--light-grey);
+    transform: translate(0, 0.5rem);
+}
+.news-container:hover path{
+    fill: var(--light-blue);
+}
+h1{
+    text-align: center;
+    font-family: Consolas;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--light-green);
+    margin-bottom: 2rem;
+    text-decoration: underline;
+}
+h2{
+    font-family: Potra;
+}

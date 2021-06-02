@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on Eddie Breeg</title>
+    <link>/news/2020/videos/</link>
+    <description>Recent content in Videos on Eddie Breeg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Dec 2020 17:00:00 +0200</lastBuildDate><atom:link href="/news/2020/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter II</title>
+      <link>/news/2020/videos/chapter_2/</link>
+      <pubDate>Thu, 03 Dec 2020 17:00:00 +0200</pubDate>
+      
+      <guid>/news/2020/videos/chapter_2/</guid>
+      <description>Chapter II Hey folks!</description>
+    </item>
+    
+    <item>
+      <title>Hotel California</title>
+      <link>/news/2020/videos/hotel_california/</link>
+      <pubDate>Fri, 02 Oct 2020 14:41:53 +0200</pubDate>
+      
+      <guid>/news/2020/videos/hotel_california/</guid>
+      <description>Hotel California Guitar Solo Well I felt like it so I did a remix of the Hotel California solo.</description>
+    </item>
+    
+    <item>
+      <title>Hang &#39;Em All</title>
+      <link>/news/2020/videos/hang_em_all/</link>
+      <pubDate>Wed, 29 Jul 2020 11:32:16 +0200</pubDate>
+      
+      <guid>/news/2020/videos/hang_em_all/</guid>
+      <description>Hang &amp;lsquo;Em All It&amp;rsquo;s not exactly new since I made this remix a few months ago.</description>
+    </item>
+    
+    <item>
+      <title>Sample Renaming</title>
+      <link>/news/2020/videos/sample-renaming/</link>
+      <pubDate>Wed, 08 Jul 2020 11:52:27 +0200</pubDate>
+      
+      <guid>/news/2020/videos/sample-renaming/</guid>
+      <description>Fed up of renaming samples?</description>
+    </item>
+    
+  </channel>
+</rss>

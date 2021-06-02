@@ -3,4 +3,5 @@
 !.gitignore
 !public/
 !public/*
+!public/**
 !config.toml
